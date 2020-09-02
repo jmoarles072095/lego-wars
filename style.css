@@ -1,0 +1,18 @@
+body {
+    background: gray;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+#image1 {
+    width: 40%;
+    float: left;
+}
+
+#image2 {
+    width: 40%;
+    float: right;
+}
